@@ -12,3 +12,4 @@ java -cp out NomeDaClasse
 ```
 
 Cada exercício fica em uma classe independente dentro de `src/`.
+
